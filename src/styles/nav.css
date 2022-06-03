@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar {
+    background-color: #0A1929;
+    color: rgb(255, 255, 255);
+    height: 99px;
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+
+.nav-bar h1 {
+    display: flex;
+    justify-content: center;   
+    font-size: 55px;
+}
+
+.nav-bar h1:hover {
+    color: rgb(255, 243, 74);
+    cursor: pointer;
+}
+
